@@ -3,7 +3,7 @@ import { cookies } from "next/headers";
 import { NextResponse } from "next/server";
 
 export async function DELETE(
-  req: Request,
+  req: NextResponse,
   { params }: { params: { id: string } }
 ) {
   const { id } = params;
