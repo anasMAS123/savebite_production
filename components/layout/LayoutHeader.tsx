@@ -16,7 +16,7 @@ const LayoutHeader = ({ name, email }: Props) => {
         <Link href="/">
           <Image
             className="absolute left-[10px] top-1/2 -translate-y-1/2"
-            src="/savebite.svg"
+            src="/SaveBite.svg"
             alt="savebite.svg"
             width={140}
             height={140}
