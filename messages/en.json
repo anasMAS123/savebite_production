@@ -1,0 +1,304 @@
+{
+  "LandingPage": {
+  "Home": "Home",
+  "Account":"Account",
+  "Sections":"Sections",
+
+  "About us": "About us",
+  "Features": "Features",
+  "Blog": "Blog",
+  "Contact us": "Contact us",
+  "Login": "Login",
+  "Sign up": "Sign up",
+  "About Us": "About Us",
+  "cut_costs_reduce_waste": "Cut costs, reduce waste.",
+  "headline": "Tackling Food Waste One Bite at a Time",
+  "description": "SaveBite helps supermarkets reduce food waste through smart inventory tracking, real-time expiration alerts, and streamlined food donation tools.",
+  "cta_button": "Get Started Free",
+
+  "We are dedicated to minimizing food waste in supermarkets by providing tools to track inventory, monitor expiration dates, and ensure that surplus food is repurposed or donated to those in need": "We are dedicated to minimizing food waste in supermarkets by providing tools to track inventory, monitor expiration dates, and ensure that surplus food is repurposed or donated to those in need.",
+  "Our goal is to support community welfare and promote sustainable consumption in line with SDG Goal 12": "Our goal is to support community welfare and promote sustainable consumption in line with SDG Goal 12.",
+  "Inventory Tracking": "Inventory Tracking",
+  "Get a clear overview of all products in stock and their shelf life": "Get a clear overview of all products in stock and their shelf life.",
+  "Expiration Alerts": "Expiration Alerts",
+  "Receive instant alerts for items nearing their expiration dates to take early action": "Receive instant alerts for items nearing their expiration dates to take early action.",
+  "Recipe Chatbot": "Recipe Chatbot",
+  "Discover creative recipe ideas for items nearing expiration — instantly suggested by our smart chatbot": "Discover creative recipe ideas for items nearing expiration — instantly suggested by our smart chatbot.",
+  "Analytics & Reports": "Analytics & Reports",
+  "Access insights on waste trends and make better restocking decisions": "Access insights on waste trends and make better restocking decisions.",
+  "Donation Managment": "Donation Managment",
+  "Donate surplus food directly to local charities with just a few taps": "Donate surplus food directly to local charities with just a few taps.",
+
+    "From The Blog": "From The Blog",
+  "How Supermarkets Can Become the Frontline Warriors Against Food Waste": "How Supermarkets Can Become the Frontline Warriors Against Food Waste.",
+  "From Shelves to Shelters: Why Food Donations Matter More Than Ever": "From Shelves to Shelters: Why Food Donations Matter More Than Ever.",
+  "Smarter Stock, Less Waste: How AI and Chatbots Are Changing Food Retail": "Smarter Stock, Less Waste: How AI and Chatbots Are Changing Food Retail.",
+
+  "Food waste isn’t just a household problem — supermarkets play a massive role in what gets thrown away This article explores how smarter inventory practices, proactive expiration tracking, and local donation partnerships can empower supermarkets to lead the fight against food waste Learn how technology like SaveBite transforms daily operations into sustainable solutions": "Food waste isn’t just a household problem — supermarkets play a massive role in what gets thrown away. This article explores how smarter inventory practices, proactive expiration tracking, and local donation partnerships can empower supermarkets to lead the fight against food waste. Learn how technology like SaveBite transforms daily operations into sustainable solutions.",
+
+  "Every day, tons of edible food are discarded while communities nearby go hungry This post highlights the impact of food donations, breaks down the logistics, and shows how platforms like SaveBite are making it easier than ever for supermarkets to connect with verified charities Learn how donating surplus isn't just good — it's necessary": "Every day, tons of edible food are discarded while communities nearby go hungry. This post highlights the impact of food donations, breaks down the logistics, and shows how platforms like SaveBite are making it easier than ever for supermarkets to connect with verified charities. Learn how donating surplus isn't just good — it's necessary.",
+
+  "Artificial intelligence is no longer just a buzzword — it’s changing how food businesses operate In this article, we explore how SaveBite’s AI-powered chatbot helps reuse items nearing expiration by suggesting quick recipes, and how analytics can forecast demand to reduce overstocking Smart technology, real savings, and a better planet": "Artificial intelligence is no longer just a buzzword — it’s changing how food businesses operate. In this article, we explore how SaveBite’s AI-powered chatbot helps reuse items nearing expiration by suggesting quick recipes, and how analytics can forecast demand to reduce overstocking. Smart technology, real savings, and a better planet.",
+
+  
+  "How It Works": "How It Works",
+  "Testimonials": "Testimonials",
+  "Contact Us": "Contact Us",
+
+  "Our Mission": "Our Mission",
+  "SDG 12 Goal": "SDG 12 Goal",
+  "Meet the Team": "Meet the Team",
+
+  "Donation Management": "Donation Management",
+  "Analytics Dashboard": "Analytics Dashboard",
+
+  "Supermarkets vs Food Waste": "Supermarkets vs Food Waste",
+  "Why Food Donations Matter": "Why Food Donations Matter",
+  "How AI Can Reduce Waste": "How AI Can Reduce Waste",
+  "Supermarkets vs Food Waste: Who Holds the Power": "Supermarkets vs Food Waste: Who Holds the Power",
+  "Why Food Donations Should Be Part of Every Retail Strategy": "Why Food Donations Should Be Part of Every Retail Strategy",
+  "How AI is Helping Stores Make Smarter Inventory Decisions": "How AI is Helping Stores Make Smarter Inventory Decisions",
+  "5 Ways to Reuse Food Before It Goes to Waste": "5 Ways to Reuse Food Before It Goes to Waste",
+  "Understanding Expiration Dates: Sell-By, Use-By & Best-By": "Understanding Expiration Dates: Sell-By, Use-By & Best-By",
+  "How to Start a Donation Partnership with Local Charities": "How to Start a Donation Partnership with Local Charities",
+  "The Psychology Behind Food Waste in Retail": "The Psychology Behind Food Waste in Retail",
+  "Reducing Loss, Increasing Impact: How Tech Saves Food": "Reducing Loss, Increasing Impact: How Tech Saves Food",
+  "What the SDGs Say About Sustainable Food Systems": "What the SDGs Say About Sustainable Food Systems",
+  
+  "Terms of Services": "Terms of Services",
+  "Privacy Policy": "Privacy Policy",
+  "CopyrightNotice": "© 2025 SaveBite. All rights reserved."
+
+
+
+
+
+}
+
+,
+  "Login-with-img": {
+    "loginToSaveBite": "Login To SaveBite",
+    "email": "Email",
+    "uploadYourImage": "Upload Your Image",
+    "remember": "Remember Me",
+    "lostYourImage?": "Lost Your Image",
+    "login": "Login",
+    "loginWithEmailAndPassword": "Login With Email And Password",
+    "doNotHaveAnAccount?": "Do Not Have An Account ?",
+    "signUp": "Signup"
+  },
+  "Login-with-password": {
+    "loginToSaveBite": "Login To SaveBite",
+    "email": "Email",
+    "password": "Password",
+    "remember": "Remember Me",
+    "lostYourImage?": "Lost Your Image",
+    "login": "Login",
+    "loginWithEmailAndImage": "Login With Email And Image",
+    "doNotHaveAnAccount?": "Do Not Have An Account ?",
+    "signUp": "Signup"
+  },
+  "recovery-img": {
+    "lostYourImage": "Lost Your Image",
+    "sentMessage": "A verification code will be sent to the your mail, Please check it.",
+    "email": "email",
+    "pleaseAnswerTheQuestion": "Please Answer This Question",
+    "send": "Send"
+  },
+  "verify-img": {
+    "verification": "Verification!",
+    "theEnteredCodeWillBeSentTo": "The Entered Code Will Be Sent To ",
+    "verify": "Verify",
+    "didNotGetTheCode": "Did'nt get the code ?",
+    "clickToResend": "Click To Resend"
+  },
+  "img-verified": {
+    "checkYourEmail": "Check Your Email",
+    "WeHaveSentAnEmailTo": "We Have Sent An Email To",
+    "checkTheEmail": "With Your Image, So Please Check It Now.",
+    "backToLogin": "Back To Login"
+  },
+  "Not-found": {
+    "weAreSorryYouFaceThatProblem": "We Are Sorry You Face That Problem 😥😥",
+    "takeMeHome": "Take Me Home"
+  },
+  "Sign-up": {
+    "createAccount": "Create a Savebite account",
+    "havingAccount": "Already have an account?",
+    "login": "Login",
+    "signup": "Signup"
+  },
+  "Sign-up-form": {
+    "userName": "User name",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "img": "Upload an image ( you will use this image to login in the next time)",
+    "question": "Please answer this Question",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "accountType": "Account Type",
+    "agree": "Agree With",
+    "terms": "Terms and Condditions",
+    "create": "Create Account",
+    "user": "user",
+    "restaurant": "restaurant",
+    "superMarket": "super-market",
+    "select": "Please Select",
+    "egypt": "Egypt",
+    "unitedStates": "United States",
+    "unitedKingdom": "United Kingdom",
+    "india": "India",
+    "australia": "Australia",
+    "france": "France",
+    "drinkQuestion": "What's your favorite drink ?"
+  },
+  "Layout": {
+    "dashboard": "Dashboard",
+    "stock": "Stock",
+    "analytics": "Analytics",
+    "tracking": "Tracking",
+    "chatbite": "Chatbite",
+    "community": "Community",
+    "account": "Account",
+    "support": "Support",
+    "logout": "Logout",
+    "lang": "Lang",
+    "searchAnything": "Search Anything"
+  },
+  "Dashboard": {
+    "stockInHand": "Stock In Hand",
+    "positiveStock": "Positive Stock",
+    "negativeStock": "Negative Stock",
+    "belowPar": "Below par",
+    "belowMinimum": "Below Minimum",
+    "message": "Easily import your product data to streamline your workflow. Make sure the file includes accurate details for each product, such as name, category, unit price, stock levels, reorder points, and sales figures. This feature allows you to quickly upload comprehensive data for efficient tracking of stock and performance. Ensure all fields are properly formatted to maintain accuracy and consistency.",
+
+    "products": "Products",
+    "import": "Import",
+    "date": "Date",
+
+    "searchProductName": "Search Product Name",
+
+    "addItem": "Add Item",
+    "print": "Print",
+    "download": "Download",
+
+    "all": "All",
+
+    "productName": "Product Name",
+    "category": "Category",
+    "price": "Price",
+    "quantity": "Quantity",
+    "reorderLevel": "Reorder Level",
+    "reorderQuantity": "Reorder Quantity",
+    "unitsSold": "Units Sold",
+    "salesValue": "Sales Value",
+    "unitPrice": "Units price",
+    "stockQuantity": "Stock Quantity",
+    "submit":"submit"
+  },
+
+  "Stock": {
+    "filter": "Filter",
+    "stock": "Stock",
+    "reorderQuantity": "Reorder Quantity",
+    "export": "Export",
+    "copy": "Copy",
+    "print": "Print",
+    "fourWeeks": "Four Weeks"
+  },
+
+  "Analytics": {
+    "analytics": "Analytics",
+    "stockTurnoverRate": "Stock Turnover Rate",
+    "reorderAccuracyRate": "Reorder Accuracy Rate",
+    "categoryOverstocking": "Category Overstocking",
+    "spoilageRate": "SpoilageRate",
+    "wasteToSalesRatio": "Waste To Sales Ratio",
+    "revenue": "Revenue",
+    "sinceLastMonth": "Since Last Month",
+    "Measures how quickly inventory is sold and replenished": "Measures how quickly inventory is sold and replenished",
+    "Evaluates how well restocking aligns with demand": "Evaluates how well restocking aligns with demand",
+    "Identifies waste-heavy product categories": "Identifies waste-heavy product categories",
+    "Estimates waste due to overstocking": "Estimates waste due to overstocking",
+    "Measures how much waste is generated per dollar of sales": "Measures how much waste is generated per dollar of sales"
+  },
+
+  "Chatbite": {
+    "chatbite": "Chatbite",
+    "favourite": "Favourite"
+  },
+
+  "tracking": {
+    "message": "Add the items you’ve recently bought to keep track of when they expire, This helps you reduce food waste, save money, and plan smarter meals, Keeping an eye on expiration dates means fewer forgotten items at the back of the fridge, fewer surprise spoilages, and more intentional grocery habits.",
+    "tracking": "Tracking Expiration Dates",
+    "import": "Add New",
+    "productName": "Product Name",
+    "idNo": "ID No",
+    "category": "Category",
+    "quantity": "Quantity",
+    "label": "Label",
+    "expirationDate": "Expiration Date",
+    "uploadProduct": "Upload product image to extract expiration dates from it.",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "datesExtracted": "If the dates are extracted right click save or edit it manually if you want.",
+    "DMY": "DD-MM-YYYY",
+    "confirm": "Confirm",
+    "discard": "Discard",
+    "delete": "Delete",
+    "edit": "Edit",
+    "viewDetails": "View Details",
+    "loading": "Loading",
+    "noItems": "No items found.",
+    "status": "Status",
+    "areYouSure": "Are you sure you want to delete this item?",
+    "yes": "Yes",
+    "cancel": "Cancel",
+    "allItem": "All items",
+    "expired": "Expired",
+    "nearToExpire": "Near to expire",
+    "details": "Details",
+    "product": "Product",
+    "actions": "Actions",
+    "editItem": "Edit item",
+    "modify": "Modify your product details and update expiration dates.",
+    "scan": "Scan",
+    "editTheDates": "Edit the dates or save them if extracted correctly.",
+    "save": "Save",
+    "clickUpload": "Click to upload or drag and drop",
+    "maxSize": "Max 10mb file size, only png or .jpeg files."
+  },
+  "community": {
+    "community": "Community",
+    "recentCampaigns": "Your Recent Campaigns",
+    "viewAll": "View all",
+    "misrElKheir": "Misr El Kheir",
+    "27KgVegetables": "27Kg Vegetables",
+    "giza": "Giza",
+    "onProgress": "On Progress",
+    "may": "May",
+    "delivered": "Delivered",
+    "bankElTaam": "Bank El Taam",
+    "meatVegetables": "12kg Meat, 5kg Vegetables",
+    "aswan": "Aswan",
+    "ahlMisr": "Ahl Misr",
+    "BreadMilk": "10 Bread Loaves, 8 Milk",
+    "seeDetails": "See Details",
+    "donated": "Donated",
+    "location": "Location",
+    "misrElKheirLocation": "Giza - 3.2 Km away",
+    "misrElKheirDescription": "A national charity targeting hunger, education, and healthcare. Our food security branch distributes staple ingredients and clean water supplies to rural families in Upper Egypt.",
+    "amalCharity": "Al Amal Charity",
+    "amalCharityLocation": "Asyut – 10.3 km",
+    "amalCharityDescription": "Al Amal focuses on serving remote villages by coordinating monthly food deliveries. Your donations help us reduce malnutrition in areas with little government support.",
+    "takafulFoundation":"Takaful Foundation"
+    ,"takafulFoundationLocation":"Mansoura – 2.9 km"
+    ,"takafulFoundationDescription":"We believe in sustainability and zero waste. Takaful takes surplus food from markets and restaurants, ensuring it reaches orphanages and elderly homes while still fresh and usable."
+    ,"explore":"Explore"
+    ,"search":"Search..."
+    ,"filter":"Filter"
+    ,"donateNow":"Donate now"
+    ,"viewProfile":"View Profile"
+  }
+}
