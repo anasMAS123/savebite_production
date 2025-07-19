@@ -7,7 +7,7 @@ import Message from "./Message";
 import FavouriteCard from "./FavouriteCard";
 import { useTranslations } from "next-intl";
 import ChatbiteModal from "./ChatbiteModal";
-import ChatWaiting from "./chatWaiting";
+import ChatWaiting from "./ChatWaiting";
 export type QuestionType = { msg: string; image: string };
 export type MessagesType = {
   created_at: string;
